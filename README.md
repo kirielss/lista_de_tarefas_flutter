@@ -1,16 +1,19 @@
-# lista_de_tarefas_flutter
+# APLICATIVO DE LISTA DE TAREFAS 
 
-A new Flutter project.
+Nosso projeto consiste em um aplicativo de lista de tarefas.
 
-## Getting Started
+* A tela inicial tem um botão para se adicionar tarefa a fazer ou comprar. 
+* Em seguida é possível colocar a data e horário em que essa atividade será feita.
+* Depois que a tarefa é criada, é possível editá-la clicando num botão.
+* Após conclusão, ela poderá ser marcada como concluída.
+* Conta ainda com um botão toggle para dark mode.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![preview1](src/img/1.jpg)
+![preview2](src/img/2.jpg)
+![preview3](src/img/3.jpg)
+![preview4](src/img/4.jpg)
+![preview5](src/img/5.jpg)
+![preview6](src/img/6.jpg)
+![preview7](src/img/7.jpg)
+![preview8](src/img/8.jpg)
+![preview9](src/img/9.jpg)
