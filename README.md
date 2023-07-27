@@ -1,5 +1,9 @@
 # APLICATIVO DE LISTA DE TAREFAS 
 
+<<<<<<< Updated upstream
+=======
+## INSTRUÇÕES
+>>>>>>> Stashed changes
 
 Antes de qualquer coisa, execute o seguinte comando:
 
@@ -9,7 +13,10 @@ flutter pub get
 
 Isso vai baixar a dependência `flutter_riverpod`. 
 
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
 Nosso projeto consiste em um aplicativo de lista de tarefas.
 
 * A tela inicial tem um botão para se adicionar tarefa a fazer ou comprar. 
@@ -18,12 +25,22 @@ Nosso projeto consiste em um aplicativo de lista de tarefas.
 * Após conclusão, ela poderá ser marcada como concluída.
 * Conta ainda com um botão toggle para dark mode.
 
-![preview1](src/img/1.jpg)
-![preview2](src/img/2.jpg)
-![preview3](src/img/3.jpg)
-![preview4](src/img/4.jpg)
-![preview5](src/img/5.jpg)
-![preview6](src/img/6.jpg)
-![preview7](src/img/7.jpg)
-![preview8](src/img/8.jpg)
-![preview9](src/img/9.jpg)
+## LISTA DE INTEGRANTES
+
+* Matheus Conceição Bonfim
+* Valter Freitas de Oliveira Neto
+* João Victor Navarro Santana
+* Gabriel Dantas Lopes
+* Marcos Roberto de C Tancredo
+
+## SCREENSHOTS
+
+![preview1](screenshots/1.jpg)
+![preview2](screenshots/2.jpg)
+![preview3](screenshots/3.jpg)
+![preview4](screenshots/4.jpg)
+![preview5](screenshots/5.jpg)
+![preview6](screenshots/6.jpg)
+![preview7](screenshots/7.jpg)
+![preview8](screenshots/8.jpg)
+![preview9](screenshots/9.jpg)
