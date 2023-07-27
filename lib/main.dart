@@ -21,13 +21,6 @@ class TodoApp extends StatelessWidget {
   }
 }
 
-// Restante do código permanece o mesmo.
-
-
-// Restante do código permanece o mesmo.
-
-// Restante do código permanece o mesmo.
-
 class TodoList extends StatefulWidget {
   @override
   _TodoListState createState() => _TodoListState();
